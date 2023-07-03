@@ -1,5 +1,5 @@
 {
-  "toys": [
+  "characters": [
     {
       "id": 1,
       "name": "Woody",
@@ -38,7 +38,7 @@
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
+      "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
       "likes": 0
     },
